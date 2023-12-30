@@ -1,5 +1,9 @@
 # Olist-Products-Analysis
 
+## Dataset Structure
+
+![image](https://github.com/FrancisDarma/Olist-Products-Analysis/assets/115353523/b8355216-1402-4683-a50e-fb4e35ceaa0a)
+
 ## Problem Statement
 In this dataset, we will conduct an analysis of product purchases using both exploratory data analysis and the RFM approach to find out:
 
